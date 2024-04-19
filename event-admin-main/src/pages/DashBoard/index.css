@@ -1,0 +1,15 @@
+.dashboard-card-container {
+  display: flex;
+  gap: 3rem;
+  flex-wrap: wrap;
+}
+.dashboard-card-container div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 10rem;
+  min-width: 15rem;
+  padding: 2rem;
+  background-color: rgba(183, 194, 207, 0.284);
+}

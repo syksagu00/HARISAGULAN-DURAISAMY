@@ -1,0 +1,11 @@
+.display-event-container{
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+.display-event-card-container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+}

@@ -1,0 +1,19 @@
+.button{
+    border: none;
+    background-color: transparent;
+}
+.verify{
+    width: 5rem;
+    border: none;
+    color: white;
+    padding: 0.5rem 0rem;
+    background-color: rgb(234, 95, 95);
+}
+.verified{
+    width: 5rem;
+    padding: 0.5rem 0rem;
+
+    border: none;
+    color: white;
+    background-color: rgb(15, 6, 138);
+}

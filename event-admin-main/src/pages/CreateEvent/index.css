@@ -1,0 +1,87 @@
+.create-event-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.create-event-form-container{
+    padding: 3rem;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    border:1px solid rgb(97, 96, 96);
+    border-radius: 0.4rem;
+}
+
+.create-event-form-container form{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  
+}
+
+.create-event-form-container input{
+    height: 2.3rem;
+    padding-left: 1rem;
+    border: 1px solid grey;
+    border-radius: 0.3rem;
+}
+.create-event-form-container button{
+    height: 3rem;
+    color: aliceblue;
+    border: none;
+    border-radius: 0.3rem;
+    font-size: 1rem;
+    font-weight: bolder;
+    background-color: dodgerblue;
+}
+
+.form-div-container{
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+.form-div-row-container{
+    display: flex;
+    gap: 0.5rem;
+}
+.form-div-row-container div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+
+.long-input {
+    height: 100px; 
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    resize: none;
+  }
+
+  .form-radio-button{
+   border: 1px solid black;
+   margin-top: 0.5rem;
+  }
+  .form-radio-button div{
+    padding-left: 1rem;
+    display: flex;
+    align-items: center;
+    gap: 0.3rem;
+  }
+
+  .form-div-image-container{
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    
+  }
+  .form-div-image-container input{
+    border: none;
+    padding: 0;
+
+    
+  }
